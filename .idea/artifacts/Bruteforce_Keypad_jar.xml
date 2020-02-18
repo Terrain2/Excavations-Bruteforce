@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Bruteforce Keypad:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Bruteforce_Keypad_jar</output-path>
+    <root id="archive" name="Bruteforce Keypad.jar">
+      <element id="module-output" name="Bruteforce Keypad" />
+    </root>
+  </artifact>
+</component>
