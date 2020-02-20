@@ -16,6 +16,8 @@ This play button was found by entering an alternate code into the aformentioned 
 
 The other day i thought "hey what if there's more?" so i made this, Enjoy!
 
+Here's a demo of this program in action, as of the 20th of february, 2020: https://youtu.be/pEkg3fOQ4cs
+
 Oh, and you can totally use this to bruteforce any other base10 combination lock in any other game super easily
 
 ## Where can i try the Walker Excavations for myself?
